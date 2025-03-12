@@ -1,0 +1,16 @@
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.Form1.resources
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.csproj.GenerateResource.cache
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.AssemblyInfoInputs.cache
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.AssemblyInfo.cs
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.csproj.CoreCompileInputs.cache
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\bin\Debug\net8.0-windows\Simplefruitsapp.exe
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\bin\Debug\net8.0-windows\Simplefruitsapp.deps.json
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\bin\Debug\net8.0-windows\Simplefruitsapp.runtimeconfig.json
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\bin\Debug\net8.0-windows\Simplefruitsapp.dll
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\bin\Debug\net8.0-windows\Simplefruitsapp.pdb
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.dll
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\refint\Simplefruitsapp.dll
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.pdb
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\Simplefruitsapp.genruntimeconfig.cache
+C:\Users\oo123\source\repos\Simplefruitsapp\Simplefruitsapp\obj\Debug\net8.0-windows\ref\Simplefruitsapp.dll
